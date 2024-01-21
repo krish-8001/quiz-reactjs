@@ -1,0 +1,212 @@
+[
+  {
+    "questionText": "HTML stands for ",
+    "answerOptions": [
+      {
+        "answerText": "HighText Machine Language",
+        "isCorrect": false
+      },
+      {
+        "answerText": "HyperText and links Markup Language",
+        "isCorrect": false
+      },
+      {
+        "answerText": "HyperText Markup Language",
+        "isCorrect": true
+      },
+      {
+        "answerText": "None of these",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The correct sequence of HTML tags for starting a webpage is ?",
+    "answerOptions": [
+      {
+        "answerText": "Head, Title, HTML, body",
+        "isCorrect": true
+      },
+      {
+        "answerText": "HTML, Body, Title, Head",
+        "isCorrect": false
+      },
+      {
+        "answerText": "HTML, Head, Title, Body",
+        "isCorrect": false
+      },
+      {
+        "answerText": "HTML, Head, Title, Body",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " Which of the following element is responsible for making the text bold in HTML?",
+    "answerOptions": [
+      {
+        "answerText": "<pre>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<a>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<b>",
+        "isCorrect": true
+      },
+      {
+        "answerText": "<br>",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "How to create a checkbox in HTML?",
+    "answerOptions": [
+      {
+        "answerText": "<input type = \"checkbox\">",
+        "isCorrect": true
+      },
+      {
+        "answerText": "<input type = \"button\">",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<checkbox>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<input type = \"check\">",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "HTML tags are enclosed in?",
+    "answerOptions": [
+      {
+        "answerText": "{ and }",
+        "isCorrect": false
+      },
+      {
+        "answerText": "< and >",
+        "isCorrect": true
+      },
+      {
+        "answerText": "# and #",
+        "isCorrect": false
+      },
+      {
+        "answerText": "! and ?",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following attribute is used to provide a unique name to an element?",
+    "answerOptions": [
+      {
+        "answerText": "class",
+        "isCorrect": false
+      },
+      {
+        "answerText": "id",
+        "isCorrect": true
+      },
+      {
+        "answerText": "type",
+        "isCorrect": false
+      },
+      {
+        "answerText": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following HTML attribute is used to define inline styles?",
+    "answerOptions": [
+      {
+        "answerText": "type",
+        "isCorrect": false
+      },
+      {
+        "answerText": "style",
+        "isCorrect": true
+      },
+      {
+        "answerText": "class",
+        "isCorrect": false
+      },
+      {
+        "answerText": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "An HTML program is saved by using the ____ extension?",
+    "answerOptions": [
+      {
+        "answerText": ".ht",
+        "isCorrect": false
+      },
+      {
+        "answerText": ".html",
+        "isCorrect": true
+      },
+      {
+        "answerText": ".hml",
+        "isCorrect": false
+      },
+      {
+        "answerText": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A program in HTML can be rendered and read by ?",
+    "answerOptions": [
+      {
+        "answerText": "Interpreter",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Web browser",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Server",
+        "isCorrect": false
+      },
+      {
+        "answerText": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following tag is used for inserting the largest heading in HTML?",
+    "answerOptions": [
+      {
+        "answerText": "<h6>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<h2>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<h3>",
+        "isCorrect": false
+      },
+      {
+        "answerText": "<h1> ",
+        "isCorrect": true
+      }
+    ]
+  }
+]
